@@ -17,4 +17,6 @@ The modules required for this to work is as follows:
     pip install flask_sqlalchemy
     pip install SQLAlchemy
 
+PS: Make sure to set your Sqlalchemy_database_uri properly, otherwise it will not work!!!    
+
 Hapy Coding guys!     
